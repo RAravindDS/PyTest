@@ -41,3 +41,5 @@ pytst -v --maxfail--2 # we are expecting to occur 2 failures to exit from the te
 pytest -v -s # if you want to print any print statement inside the testing function (NOTE! -> This needs to be have a print function)
 pytest -q  # quiet mode 
 ```
+
+[**Resource**](https://www.youtube.com/watch?v=bbp_849-RZ4)
